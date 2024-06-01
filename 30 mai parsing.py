@@ -54,7 +54,7 @@ window = Tk()
 window.geometry("500x500")
 window.title("Прогноз погоды")
 window.resizable(False, False)
-window.iconbitmap("icon.ico")
+window.iconbitmap("Погода4.ico")
 
 welcome_text = Label(window, text="Прогноз погоды", font=("Time New Roman", 30, "bold"))
 welcome_text.pack()
